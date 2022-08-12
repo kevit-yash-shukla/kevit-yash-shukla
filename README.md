@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **NestJs,AdonisJs**
+- 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **backend development**
 
