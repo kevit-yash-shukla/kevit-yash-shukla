@@ -3,7 +3,6 @@
 
 
 
-- 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **backend development**
 
